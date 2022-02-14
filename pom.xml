@@ -25,9 +25,9 @@
         <version>4.1.51.Final</version>
     </dependency>
     <dependency>
-        <groupId>com.alibaba</groupId>
+       <groupId>com.alibaba</groupId>
         <artifactId>fastjson</artifactId>
-        <version>1.2.67</version>
+        <version>1.2.75</version>
     </dependency>
 
 <!--    这个jar包应该依赖log4j,不引入log4j会有控制台会有warn，但不影响正常使用-->
