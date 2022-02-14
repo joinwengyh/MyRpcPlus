@@ -24,6 +24,8 @@
         <artifactId>netty-all</artifactId>
         <version>4.1.51.Final</version>
     </dependency>
+         
+<!--          Fastjson <=1.2.68 远程代码执行漏洞 -->
     <dependency>
        <groupId>com.alibaba</groupId>
         <artifactId>fastjson</artifactId>
